@@ -1,3 +1,1 @@
-# new-detection-navbar-thing
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ayomanwhathuhhuh/new-detection-navbar-thing)
+new place for the website for web++ group
